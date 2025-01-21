@@ -1,3 +1,3 @@
 # HelloWorld
 
-zadanie polegające na napisaniu kilku sólów o sobie
+zadanie polegające na napisaniu kilku slów o sobie
